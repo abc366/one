@@ -540,7 +540,6 @@ PLAYBOY,p2p://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790
 香蕉台,p2p://ns2.hellotvvod.com:9906/604c896000065d85ba234dc432580abb
 HOT,p2p://ns2.hellotvvod.com:9906/604c896000002f44ba234c2e19716622
 CNN,p2p://147.135.39.171:9906/605ef25300088039c04902d94c250fe7
-好的,http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/262586
 advideo,http://adultiptv.net/vods.m3u8
 
 乐视频_530,#genre#
